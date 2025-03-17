@@ -45,11 +45,10 @@ Reads text from signs, packages, labels, and documents, making written informati
 
 ### Backend/API
 - **Qwen2-VL-7B-Instruct**: AI vision model for image analysis
-- **Firebase**: Authentication and analytics
 
 ### Device Features
 - **Accelerometer/Gyroscope**: For device stability detection
-- **Text-to-Speech**: Native device capabilities
+- **Text-to-Speech**: Native device capabilities TalkBack
 
 ## Installation & Usage
 
