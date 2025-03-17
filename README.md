@@ -1,4 +1,4 @@
-# AuraViz - Vision for the Visually Impaired
+# 👁‍🗨 AuraViz - Vision for the Visually Impaired
 
 ## What is AuraViz?
 
@@ -63,6 +63,11 @@ cd auraviz
 # Install dependencies
 npm install
 
+# Install dependencies
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+
 # Start the development server
 expo start
 ```
@@ -95,16 +100,5 @@ expo start
 - **Shopping Assistant**: Product recognition and information retrieval
 - **Wearable Integration**: Support for smart glasses and other wearable devices
 
-## Contributing
 
-Contributions are always welcome!
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for ways to get started.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
----
-
-Created with ❤️ for the Visionary Hackathon 2025
+Created with ❤️ for the Visionary Hackathon 2025 Powered by Nebius AI studio.
