@@ -4,8 +4,6 @@
 
 AuraViz is a mobile application designed to serve as "eyes" for visually impaired individuals. Using advanced computer vision AI, AuraViz captures the world through the smartphone camera and provides detailed audio descriptions of the surroundings. The app transforms visual information into concise, helpful audio feedback, making the visual world more accessible to those with visual impairments.
 
-![AuraViz App Screenshot](path/to/screenshot.png)
-
 ## Why is it Useful?
 
 For the 285 million people worldwide with visual impairments, navigating daily life presents unique challenges:
